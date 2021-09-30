@@ -51,6 +51,9 @@ html {
   -ms-overflow-style: scrollbar;
   -webkit-tap-highlight-color: transparent;
 }
+.name{
+  text-align: center;
+}
 
 .header-logo{
   vertical-align: middle;
@@ -58,7 +61,7 @@ html {
   max-width: 400px;
   height: auto;
   border-radius: 10%;
-  float: center;
+  align-content: center;
 }
 
 #side .nav-link.active,

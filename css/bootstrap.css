@@ -99,8 +99,9 @@
 /* Content */
 .content-logo-1 {
   padding: 10px;
+  float: left;
 }
-.content-logo-2{
+.content-logo-2 {
   width: 100%;
   max-width: 160px;
   height: auto;
@@ -108,19 +109,27 @@
   border-radius: 5%;
 }
 
+.content-logo-3 {
+  width: 100%;
+  max-width: 30px;
+  height: auto;
+  float: left;
+  border-radius: 5%;
+}
+
 /* Responsive layout - makes a two column-layout instead of four columns */
-/*@media screen and (max-width: 900px) {
+@media screen and (max-width: 900px) {
   .my-column {
     width: 50%;
   }
-}*/
+}
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-/*@media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
   .my-column {
     width: 100%;
   }
-}*/
+}
 
 body {
   margin: 0;

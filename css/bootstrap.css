@@ -54,9 +54,11 @@ html {
 
 .header-logo{
   vertical-align: middle;
-  width: 150px;
-  height: 150px;
+  width: 100%;
+  max-width: 400px;
+  height: auto;
   border-radius: 50%;
+  float: left;
 }
 
 #side .nav-link.active,

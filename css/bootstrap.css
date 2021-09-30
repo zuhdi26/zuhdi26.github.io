@@ -57,7 +57,7 @@ html {
   width: 100%;
   max-width: 400px;
   height: auto;
-  border-radius: 50%;
+  border-radius: 10%;
   float: left;
 }
 

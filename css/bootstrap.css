@@ -58,7 +58,7 @@ html {
   max-width: 400px;
   height: auto;
   border-radius: 10%;
-  float: left;
+  float: center;
 }
 
 #side .nav-link.active,

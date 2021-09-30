@@ -52,6 +52,10 @@ html {
   -webkit-tap-highlight-color: transparent;
 }
 
+.header-logo{
+  border-radius: 50%;
+}
+
 #side .nav-link.active,
 #side .nav-link:hover,
 #side .nav-link:focus{
